@@ -23,6 +23,20 @@
 #
 #
 
+import sys
+import time
+import os
+from urllib2 import *
+from platform import system
+print
+print
+print
+os.system("clear")
+os.system("bash logo.sh")
+print
+print
+print
+
 def ping():
 	print
 	print
