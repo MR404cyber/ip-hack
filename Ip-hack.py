@@ -151,9 +151,9 @@ os.system( "bash logo.sh" )
 print
 def mnu():
         print "\033[32m<========================================>"
-        print "\033[32mwhatshapp \033[36m082331072836"
-        print "\033[32mauthor \033[36mMuhammad Raihan"
-        print "\033[32mYoutube \033[36mMR.404"
+        print "\033[32mwhatshapp :\033[36m082331072836"
+        print "\033[32mauthor    :\033[36mMuhammad Raihan"
+        print "\033[32mYoutube   :\033[36mMR.404"
         print "\033[32m<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
 	print "\033[1m\033[32m[+]\033[36m Whois lookup"
 	print "\033[32m[+] \033[36mDNS lookup"
